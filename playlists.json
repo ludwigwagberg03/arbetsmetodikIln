@@ -1,0 +1,37 @@
+{
+  "playlists": [
+    {
+      "id": "1",
+      "genre": "Rock",
+      "artist": "Queen",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9f/Bohemian_Rhapsody.png",
+      "songs": [
+        "Bohemian Rhapsody",
+        "We Will Rock You",
+        "Don't Stop Me Now"
+      ]
+    },
+    {
+      "id": "2",
+      "genre": "Pop",
+      "artist": "Michael Jackson",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png",
+      "songs": [
+        "Thriller",
+        "Beat It",
+        "Billie Jean"
+      ]
+    },
+    {
+      "id": "3",
+      "genre": "Hip Hop",
+      "artist": "Eminem",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/8b/Eminem_-_The_Marshall_Mathers_LP.jpg",
+      "songs": [
+        "Stan",
+        "Without Me",
+        "Lose Yourself"
+      ]
+    }
+  ]
+}
