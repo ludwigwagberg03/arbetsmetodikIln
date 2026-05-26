@@ -1,0 +1,10 @@
+img {
+    width: 300px;
+}
+#back-btn {
+    border: none;
+    background-color: white;
+    cursor: pointer;
+    color: blue;
+    font-size: medium;
+}

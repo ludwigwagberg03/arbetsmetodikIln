@@ -1,0 +1,48 @@
+{
+  "playlists": [
+    {
+      "id": "1",
+      "genre": "Rock",
+      "artist": "Queen",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/9/9f/Bohemian_Rhapsody.png",
+      "songs": [
+        "Bohemian Rhapsody",
+        "We Will Rock You",
+        "Don't Stop Me Now"
+      ]
+    },
+    {
+      "id": "2",
+      "genre": "Pop",
+      "artist": "Michael Jackson",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png",
+      "songs": [
+        "Thriller",
+        "Beat It",
+        "Billie Jean"
+      ]
+    },
+    {
+      "id": "3",
+      "genre": "Hip Hop",
+      "artist": "Eminem",
+      "imageUrl": "https://ntvb.tmsimg.com/assets/assets/182420_v9_bc.jpg",
+      "songs": [
+        "Stan",
+        "Without Me",
+        "Lose Yourself"
+      ]
+    },
+    {
+      "artist": "test ",
+      "genre": "test",
+      "imageUrl": "https://ntvb.tmsimg.com/assets/assets/182420_v9_bc.jpg",
+      "songs": [
+        "song1",
+        " song2"
+      ],
+      "id": "oC3QJXNjyAk"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
