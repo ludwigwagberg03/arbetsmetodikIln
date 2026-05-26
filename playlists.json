@@ -26,12 +26,23 @@
       "id": "3",
       "genre": "Hip Hop",
       "artist": "Eminem",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/en/8/8b/Eminem_-_The_Marshall_Mathers_LP.jpg",
+      "imageUrl": "https://ntvb.tmsimg.com/assets/assets/182420_v9_bc.jpg",
       "songs": [
         "Stan",
         "Without Me",
         "Lose Yourself"
       ]
+    },
+    {
+      "artist": "test ",
+      "genre": "test",
+      "imageUrl": "https://ntvb.tmsimg.com/assets/assets/182420_v9_bc.jpg",
+      "songs": [
+        "song1",
+        " song2"
+      ],
+      "id": "oC3QJXNjyAk"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
